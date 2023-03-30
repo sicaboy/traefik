@@ -49,7 +49,7 @@ require (
 	github.com/go-openapi/spec v0.0.0-20160808142527-6aced65f8501 // indirect
 	github.com/go-openapi/swag v0.0.0-20160704191624-1d0bd113de87 // indirect
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.5.0
 	github.com/google/go-github v9.0.0+incompatible
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/uuid v1.1.1
@@ -84,7 +84,7 @@ require (
 	github.com/mvdan/xurls v1.1.1-0.20170309204242-db96455566f0
 	github.com/ogier/pflag v0.0.2-0.20160129220114-45c278ab3607
 	github.com/opencontainers/image-spec v1.0.0-rc5.0.20170515205857-f03dbe35d449 // indirect
-	github.com/opencontainers/runc v1.0.0-rc3.0.20170425215914-b6b70e534517 // indirect
+	github.com/opencontainers/runc v1.1.5 // indirect
 	github.com/opentracing-contrib/go-observer v0.0.0-20170622124052-a52f23424492 // indirect
 	github.com/opentracing/opentracing-go v1.0.2
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.3.5
@@ -99,7 +99,7 @@ require (
 	github.com/ryanuber/go-glob v1.0.0
 	github.com/samuel/go-zookeeper v0.0.0-20161028232340-1d7be4effb13 // indirect
 	github.com/shopspring/decimal v1.1.1-0.20191009025716-f1972eb1d1f5
-	github.com/sirupsen/logrus v1.4.2
+	github.com/sirupsen/logrus v1.8.1
 	github.com/soheilhy/cmux v0.1.4 // indirect
 	github.com/spf13/pflag v0.0.0-20160427162146-cb88ea77998c // indirect
 	github.com/stretchr/testify v1.5.1
@@ -117,8 +117,7 @@ require (
 	github.com/vdemeester/shakers v0.1.0
 	github.com/vulcand/oxy v1.2.0
 	github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2 // indirect
-	golang.org/x/net v0.0.0-20190923162816-aa69164e4478
-	golang.org/x/sys v0.0.0-20191115151921-52ab43148777 // indirect
+	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
 	google.golang.org/grpc v1.22.1
 	gopkg.in/DataDog/dd-trace-go.v1 v1.13.0
 	gopkg.in/fsnotify.v1 v1.4.7
